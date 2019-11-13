@@ -38,7 +38,7 @@ class Student
   end
   
   def self.create(hash)
-    
+    students
   end
   
 end
